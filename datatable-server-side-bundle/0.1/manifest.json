@@ -1,5 +1,9 @@
 {
   "bundles": {
     "Hcnx\\DatatableProcessingBundle\\DatatableProcessingBundle": ["all"]
-  }
+  },
+    "aliases": ["hcnx-dt"]
+
+  
+  
 }
