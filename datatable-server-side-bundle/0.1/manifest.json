@@ -1,0 +1,5 @@
+{
+  "bundles": {
+    "Hcnx\\DatatableProcessingBundle\\DatatableProcessingBundle": ["all"]
+  }
+}
